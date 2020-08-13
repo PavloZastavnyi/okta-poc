@@ -1,0 +1,24 @@
+{
+  "name": "okta-poc",
+  "version": "1.0.0",
+  "description": "POC OKTA integration based on Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavloZastavnyi/okta-poc.git"
+  },
+  "keywords": [
+    "node.js",
+    "javascript",
+    "okta"
+  ],
+  "author": "Pavlo Zastavnyi <Pavlo.Zastavnyi@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavloZastavnyi/okta-poc/issues"
+  },
+  "homepage": "https://github.com/PavloZastavnyi/okta-poc#readme"
+}
