@@ -1,2 +1,8 @@
 # Ignore Idea files
 .idea/
+
+# Ignore node modules
+node_modules/
+
+# Ignore environment files
+*.env
